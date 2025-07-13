@@ -1,0 +1,30 @@
+# Ignore system/user folders
+AppData/
+.vscode/
+*.log
+*.tmp
+*.cache
+__pycache__/
+*.pyc
+
+# Ignore IDE and OS files
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Ignore Python virtual environments
+venv/
+.env/
+*.egg-info/
+
+# Ignore Jupyter/IPython
+.ipynb_checkpoints/
+
+# Ignore datasets/output
+*.csv
+*.h5
+*.sqlite3
+*.pkl
+*.zip
+*.gz
