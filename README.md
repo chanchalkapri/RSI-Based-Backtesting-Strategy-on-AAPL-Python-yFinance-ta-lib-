@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 \# 📈 RSI Backtesting Strategy
+<<<<<<< HEAD
+Your local content here
+=======
+Remote content from GitHub
+>>>>>>> main
 
 
 
@@ -54,3 +60,6 @@ This project backtests a simple \*\*Relative Strength Index (RSI)\*\* strategy o
 
 
 
+=======
+# RSI-Based-Backtesting-Strategy-on-AAPL-Python-yFinance-ta-lib-
+>>>>>>> 110cfe7b60b7a77c07429c7cc594d624d5c31802
